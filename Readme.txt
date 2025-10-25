@@ -32,7 +32,6 @@ ________________________________________
 3.	Launch MySQL Workbench or any SQL client.
 4.	Import data from the Dominos_Data folder.
 5.	Execute queries from the Sales_Query folder.
-6.	(Optional) Visualize query outputs in Power BI or Excel.
 ________________________________________
 
 📘 Learning Outcomes
